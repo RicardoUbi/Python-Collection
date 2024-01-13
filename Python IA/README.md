@@ -21,13 +21,13 @@ O programa importa duas bases de dados em formato .csv, e a partir disso criamos
 
 <div align="center">
   <p>Resultado de assertividade de duas IAs após o treinamento </p>
-  <img src="imgs/Py-IA1.png" alt="Dados Visualização" style="display:block; margin:auto; margin-bottom:20px;">
+  <img src="imgs/PY-IA1.png" alt="Dados Visualização" style="display:block; margin:auto; margin-bottom:20px;">
 
   <p style="margin-top:20px;">IA mais assertiva atuando</p>
-  <img src="imgs/Py-IA2.png" alt="Grafico 1" style="display:block; margin:auto; margin-bottom:20px;">
+  <img src="imgs/PY-IA2.png" alt="Grafico 1" style="display:block; margin:auto; margin-bottom:20px;">
 
   <p style="margin-top:20px;">Pontos mais relevantes para a IA tomar decisões</p>
-  <img src="imgs/Py-IA3.png" alt="Grafico 2" style="display:block; margin:auto;">
+  <img src="imgs/PY-IA3.png" alt="Grafico 2" style="display:block; margin:auto;">
 </div>
 
 
