@@ -17,13 +17,13 @@ momento em que entrou no chat.
 
 <div align="center">
   <p>Tela de Inicio </p>
-  <img src="imgs/Py-C1.png" alt="Dados Visualização" style="display:block; margin:auto; margin-bottom:20px;">
+  <img src="imgs/PY-C1.png" alt="Dados Visualização" style="display:block; margin:auto; margin-bottom:20px;">
 
   <p style="margin-top:20px;">Popup para inserir nome</p>
-  <img src="imgs/Py-C2.png" alt="Grafico 1" style="display:block; margin:auto; margin-bottom:20px;">
+  <img src="imgs/PY-C2.png" alt="Grafico 1" style="display:block; margin:auto; margin-bottom:20px;">
 
   <p style="margin-top:20px;">Chat Público</p>
-  <img src="imgs/Py-C3.png" alt="Grafico 2" style="display:block; margin:auto;">
+  <img src="imgs/PY-C3.png" alt="Grafico 2" style="display:block; margin:auto;">
 </div>
 
 
