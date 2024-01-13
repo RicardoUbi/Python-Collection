@@ -18,10 +18,16 @@ Criação de Jogos da [Hashtag Programação](https://pages.hashtagtreinamentos.
 
 1. Clone o repositório:
 
-   ```terminal
-   git clone https://github.com/RicardoUbi/FlapBirdPY.git
-   
-   cd FlapBirdPY
+      ```terminal
+   git clone https://github.com/RicardoUbi/Python-Collection.git
+
+   cd Python-Collection
+
+   git config core.sparseCheckout true
+
+   echo "FlappyBird/" >> .git/info/sparse-checkout
+
+   git pull origin main
 
 2. Instale a biblioteca:
    
