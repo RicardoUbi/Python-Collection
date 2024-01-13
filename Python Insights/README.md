@@ -21,12 +21,12 @@ O programa importa uma base de dados em formato .csv, e a partir disso analisamo
 
 <div align="center">
   <p>Exportando dados</p>
-  <img src="imgs/Py-I1.png" alt="Dados Visualização" style="display:block; margin:auto; margin-bottom:20px;">
+  <img src="imgs/PY-I1.png" alt="Dados Visualização" style="display:block; margin:auto; margin-bottom:20px;">
 
   <p style="margin-top:20px;">Visualindo Graficos</p>
-  <img src="imgs/Py-I2.png" alt="Grafico 1" style="display:block; margin:auto; margin-bottom:20px;">
+  <img src="imgs/PY-I2.png" alt="Grafico 1" style="display:block; margin:auto; margin-bottom:20px;">
 
-  <img src="imgs/Py-I3.png" alt="Grafico 2" style="display:block; margin:auto;">
+  <img src="imgs/PY-I3.png" alt="Grafico 2" style="display:block; margin:auto;">
 </div>
 
 
